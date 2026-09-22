@@ -2,8 +2,7 @@
 
 An interactive **Power BI dashboard** designed to analyze global weather conditions and air quality indicators across different cities and countries. The dashboard provides interactive visualizations, KPIs, maps, trends, and filters to help users explore environmental conditions and identify patterns.
 
-
-## ✨ Features
+ ✨ Features
 
 | Feature | Description |
 |---|---|
